@@ -10,4 +10,4 @@ DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY The code is supplied as is 
 
 References:
 
-L Faes, G Mijatovic, **Y Antonacci**, R Pernice, C Barà, L Sparacino, M Sammartino, A Porta, D Marinazzo, S Stramaglia 'A Framework for the Time- and Frequency-Domain Assessment of High-Order Interactions in Brain and Physiological Networks' submitted, 2022; **ARxiv preprint**
+L Faes, G Mijatovic, **Y Antonacci**, R Pernice, C Barà, L Sparacino, M Sammartino, A Porta, D Marinazzo, S Stramaglia 'A Framework for the Time- and Frequency-Domain Assessment of High-Order Interactions in Brain and Physiological Networks' submitted, 2022; **https://arxiv.org/abs/2202.04179**
